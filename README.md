@@ -19,6 +19,7 @@
 <div style="display: inline_block"><br>
 <a href="https://www.linkedin.com/in/eduardo-augusto-fonseca-rezende-3b8b9432a/" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" alt="LinkedIn" width="40" height="40"/></a>
 <a href="https://www.instagram.com/eduarado.agosto/" target="_blank"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/instagram.svg" alt="instagram" width="40" height="40"/></a>
+<img align="right" alt="yello" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGl0ZmY2cXRkdTh0OXY4bmNscnBmdzJxOHFxdXJidjFnOXBjZDZ6NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/6vlspa7tkn20eQjdty/giphy.gif" width="200px">
 </div>
 
-<img align="right" alt="yello" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGl0ZmY2cXRkdTh0OXY4bmNscnBmdzJxOHFxdXJidjFnOXBjZDZ6NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/6vlspa7tkn20eQjdty/giphy.gif">
+
