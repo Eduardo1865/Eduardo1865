@@ -3,6 +3,7 @@
 
 - 🛠️ Desenvolvendo um software de organização de almoxarifados.
 - 📧 eduardo.a@gec.com.br
+- 🔍 LinkedIn: https://www.linkedin.com/in/eduardo-augusto-fonseca-rezende-3b8b9432a/
 
 ##
 <div style="display: inline_block"><br>
