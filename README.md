@@ -1,6 +1,6 @@
 ## Olá 👋
 
-- 🛠️ Desenvolvendo um software de organização de almoxarifados.
+- 🛠️ Me aprofundando nos estudos de desenvolvimento web.
 - ⚽ Ex-representante da categoria de futebol 2D da equipe RobotBulls.
 - 📧 Email: eduardo.a@gec.com.br
 
