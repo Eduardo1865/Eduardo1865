@@ -1,6 +1,6 @@
 ## Olá 👋
 
-- 🛠️ Me aprofundando nos estudos de desenvolvimento web.
+- 🛠️ Estagiário de desenvolvimento de software na LEVTY.
 - ⚽ Ex-representante da categoria de futebol 2D da equipe RobotBulls.
 - 📧 Email: eduardo.a@gec.com.br
 
